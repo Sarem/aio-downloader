@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: tooraj
+Class-Path: lib/commons-io-2.6.jar lib/unirest-java-2.3.08.jar lib/htt
+ pclient-4.5.9.jar lib/httpcore-4.4.11.jar lib/commons-logging-1.2.jar
+  lib/commons-codec-1.11.jar lib/httpmime-4.5.9.jar lib/httpasyncclien
+ t-4.1.4.jar lib/httpcore-nio-4.4.10.jar lib/json-20180813.jar lib/gso
+ n-2.8.5.jar lib/commons-lang3-3.9.jar lib/forms_rt-7.0.3.jar lib/asm-
+ commons-3.0.jar lib/asm-tree-3.0.jar lib/asm-3.0.jar lib/forms-1.1-pr
+ eview.jar lib/jdom-1.0.jar lib/javac2-7.0.3.jar lib/ant-1.7.0.jar lib
+ /ant-launcher-1.7.0.jar
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_102
+Main-Class: ir.barantelecom.downloader.Runner
+
